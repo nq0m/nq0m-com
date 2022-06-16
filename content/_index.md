@@ -1,7 +1,8 @@
 ---
-title: "Welcome to the new version of my site!"
-date: 2022-06-12T20:05:14-05:00
+title: ""
+date: 2022-06-13T19:00:24-05:00
 draft: false
+featured_image: '/images/woodson-sfl.jpg'
 ---
 
 Hey Everyone!  Welcome to the new version of my Ham Radio website.  I'm Jeremy, NQ0M and I'll be writing here about all kinds of ham radio things.  You might also get a little bit of computer-related info here as well, as I am an IT professional by trade, and very big into digital modes.
